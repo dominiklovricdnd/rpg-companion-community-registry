@@ -1849,5 +1849,16 @@
     "github_repo": "lpatton1025/Illrigger-Class",
     "repo_url": "https://lpatton1025.github.io/Illrigger-Class/",
     "has_system": false
+  },
+  {
+    "name": "Half-vampire-race",
+    "description": "half vamp race for homebrew",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "condix0905-dotcom/Half-vampire-race",
+    "repo_url": "https://condix0905-dotcom.github.io/Half-vampire-race/",
+    "has_system": false
   }
 ]
