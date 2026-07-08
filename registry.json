@@ -1860,5 +1860,18 @@
     "github_repo": "condix0905-dotcom/Half-vampire-race",
     "repo_url": "https://condix0905-dotcom.github.io/Half-vampire-race/",
     "has_system": false
+  },
+  {
+    "name": "Paragon-dnd-5.5-class",
+    "description": "A balanced 5.5 e martial class with some magic flavor. Its a wisdom based martial class which has a lot of options, not only for damage but support too. It has 5 subclasses which each focus on some playstyle from healing to area damage to focused damage. ",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "class"
+    ],
+    "stars": 0,
+    "github_repo": "dominiklovricdnd/Paragon-dnd-5.5-class",
+    "repo_url": "https://dominiklovricdnd.github.io/Paragon-dnd-5.5-class/",
+    "has_system": false
   }
 ]
